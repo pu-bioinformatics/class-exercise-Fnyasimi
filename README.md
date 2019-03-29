@@ -1,2 +1,3 @@
 # pythonexercises
-Quick Pythion Exercises for Practice
+
+The `exercise.MD` questions were all answered in the notebook `exercise_ans.ipynb`.
